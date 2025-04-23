@@ -57,6 +57,5 @@ cryptext/
 
 ```bash
 git clone https://github.com/Magnus7811/cryptext.git
-bash'''
 
 ---------------------------------------
