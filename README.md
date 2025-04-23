@@ -24,12 +24,8 @@ This tool is perfect for:
 
 ---
 
-## Installation
+## STEPS FOR USING IT IN TERMUX OR KALI
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Magnus7811/cryptext.git
 cd cryptext
 
 pkg install python (FOR TERMUX)
@@ -52,4 +48,15 @@ File Structure
 cryptext/
 ├── cryptext.py       # Main encryption/decryption logic
 ├── README.md         # This file
+---------------------------------------
+
+
+## Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Magnus7811/cryptext.git
+bash'''
+
 ---------------------------------------
