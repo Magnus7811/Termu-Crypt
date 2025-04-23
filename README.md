@@ -55,4 +55,5 @@ cryptext/
 ---
 
 ### Want me to generate this as an actual file for your project? Just say:
-**“Generate the README file for me”** and I’ll output the `README.md` file content directly for you to copy-paste into your Termux folder.
+**“Generate the README file for me”**and
+ I’ll output the `README.md` file content directly for you to copy-paste into your Termux folder.
