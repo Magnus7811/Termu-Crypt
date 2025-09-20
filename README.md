@@ -46,9 +46,9 @@ Decrypted Message: CyberSecIsCool
 
 File Structure
 Termu-Crypt/
-├── cryptext.py # Main encryption/decryption logic.
-├── README.md  # Details about the script.
-├── requirements.txt  #Follow basic requirements required to run this tool.
+├── cryptext.py
+├── README.md 
+├── requirements.txt
 ---------------------------------------
 
 
