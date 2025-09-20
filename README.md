@@ -44,6 +44,7 @@ Enter the encryption key (1-25): 5
 
 Decrypted Message: CyberSecIsCool
 
+## FILE STRUCTURE
 cryptext/
 ├── cryptext.py        # Main encryption/decryption logic
 ├── README.md          # Project documentation
