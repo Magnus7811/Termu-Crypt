@@ -25,7 +25,7 @@ This tool is perfect for:
 ---
 
 ## STEPS FOR USING IT IN TERMUX OR KALI
-
+```bash
 cd cryptext
 
 pkg install python (FOR TERMUX)
@@ -43,6 +43,7 @@ Enter your message: DzgjwXjhNxHttq
 Enter the encryption key (1-25): 5
 
 Decrypted Message: CyberSecIsCool
+
 -----------
 
 ## FILE STRUCTURE
