@@ -45,9 +45,10 @@ Enter the encryption key (1-25): 5
 Decrypted Message: CyberSecIsCool
 
 File Structure
-cryptext/
+Termu-Crypt/
 ├── cryptext.py       # Main encryption/decryption logic
-├── README.md         # This file
+├── README.md         # Details about the script.
+├── requirements.txt  #Follow basic requirements required to run this tool
 ---------------------------------------
 
 
