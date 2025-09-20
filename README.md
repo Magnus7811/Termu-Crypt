@@ -1,6 +1,6 @@
-# CrypText
+# Termu-Crypt
 
-**CrypText** is a lightweight command-line cryptographic utility written in Python for text encryption and decryption using a custom Caesar cipher logic. Built for cybersecurity learners, CTFers, and crypto enthusiasts, it’s designed to work seamlessly on both **Termux** and traditional Linux terminals.
+**Termu-Crypt** is a lightweight command-line cryptographic utility written in Python for text encryption and decryption using a custom Caesar cipher logic. Built for cybersecurity learners, CTFers, and crypto enthusiasts, it’s designed to work seamlessly on both **Termux** and traditional Linux terminals.
 
 ---
 
@@ -26,31 +26,34 @@ This tool is perfect for:
 
 ## STEPS FOR USING IT IN TERMUX OR KALI
 ```bash
-cd cryptext
+cd Termu-Crypt
 
-pkg install python (FOR TERMUX)
+#FOR TERMUX
+pkg install python
+
+#RUN THE SCRIPT
 python3 cryptext.py
 
-Do you want to encrypt or decrypt? encrypt
+##Do you want to encrypt or decrypt? encrypt
 Enter your message: CyberSecIsCool
 Enter the encryption key (1-25): 5
 
 Encrypted Message: DzgjwXjhNxHttq
 
 
-Do you want to encrypt or decrypt? decrypt
+##Do you want to encrypt or decrypt? decrypt
 Enter your message: DzgjwXjhNxHttq
 Enter the encryption key (1-25): 5
 
 Decrypted Message: CyberSecIsCool
 
------------
 
+---------------------------------------
 ## FILE STRUCTURE
 Termu-Crypt/
 ├── cryptext.py                        # Main encryption/decryption logic
 ├── README.md                          # Project documentation
-├── requirements.txt                  # Basic requirements to run this tool
+├── requirements.txt                  # Basic requirements to run this tool.
 ---------------------------------------
 
 
